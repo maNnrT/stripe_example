@@ -1,7 +1,5 @@
 # stripe_example
 
-# paypal_example
-
 # For both front-end and back-end
 npm i
 
